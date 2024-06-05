@@ -2,7 +2,7 @@
 	"translatorID": "new-id-for-play-store",
 	"label": "Google Play Store",
 	"creator": "Best Bud Sophie",
-	"target": "^https://play\\.google\\.com/store/",
+	"target": "https://play.google.com/store/",
 	"minVersion": "5.0",
 	"maxVersion": "",
 	"priority": 100,
